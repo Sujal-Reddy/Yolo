@@ -1,0 +1,8 @@
+
+python .\detect.py --source 0 --img-size 640 --weight best.pt --conf 0.3
+
+
+
+
+
+
